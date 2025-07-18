@@ -2,7 +2,7 @@
 
 Um simples visualizador de dados do Redis construído com Vue.js no frontend e uma API Express.js no backend. Este projeto foi criado para fins de estudo, explorando a integração de uma stack moderna full-stack com TypeScript.
 
-![Readicts Screenshot](https://imgur.com/a/IyVV5zI)
+<img width="1916" height="961" alt="Captura de tela de 2025-07-17 22-29-49" src="https://github.com/user-attachments/assets/e1839eeb-f942-40a0-8690-fcbdcefdbe52" />
 
 ---
 
